@@ -1,4 +1,6 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/84400545?s=400&u=656c479ce00b79c801862dd5ebb318cb1aacaed6&v=4)
+<!--
+ [![MasterHead](https://avatars.githubusercontent.com/u/84400545?s=400&u=656c479ce00b79c801862dd5ebb318cb1aacaed6&v=4)
+ -->
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
