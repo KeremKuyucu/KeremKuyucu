@@ -12,7 +12,7 @@
 - 🔭 Currently working on: [GeoGame](https://github.com/keremlolgg/GeoGame)  
 - 💡 Passionate about software development and technology.  
 - 🎯 My goal: Creating innovative apps for mobile and PC.  
-- 📫 Reach me at: **[iletisim@keremkk.can.re](mailto:iletisim@keremkk.can.re)**  
+- 📫 Reach me at: **[Contact](https://keremkk.can.re/contact)**  
 
 ---
 
