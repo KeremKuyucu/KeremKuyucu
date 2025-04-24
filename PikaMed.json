@@ -1,5 +1,7 @@
 {
   "latest_version": "0.1.2",
   "apk_url": "https://github.com/keremlolgg/keremlolgg/releases/latest",
-  "apiserver": "https://keremkk.glitch.me/pikamed"
+  "apiserver": "https://keremkk.glitch.me/pikamed",
+  "is_mandatory": true,
+  "update_notes": "Yeni özellikler eklendi, hata düzeltmeleri yapıldı."
 }
