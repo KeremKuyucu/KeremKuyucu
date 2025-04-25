@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.1.3",
-  "apk_url": "https://github.com/keremlolgg/pikamed/releases/latest",
+  "latest_version": "0.1.4",
+  "apk_url": "https://github.com/keremlolgg/keremlolgg/releases/latest",
   "apiserver": "https://keremkk.glitch.me/pikamed",
-  "update_notes": "Ai eklendi."
+  "update_notes": "Proje açık kaynak olarak yayınlandı. Api server değiştirildi"
 }
