@@ -32,8 +32,8 @@
  <details>
   <summary>My Statistics</summary>
    
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=keremlolgg&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremlolgg&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=keremkuyucu&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremkuyucu&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
 </details>
 
 ---
@@ -41,5 +41,5 @@
 
 ### 🧑‍💻 Visitors  
 <p align="center">
-  <img src="https://count.getloli.com/@keremlolgg?theme=gelbooru" alt="Visitor Counter"/>
+  <img src="https://count.getloli.com/@keremkuyucu?theme=gelbooru" alt="Visitor Counter"/>
 </p>
