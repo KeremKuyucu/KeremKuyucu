@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/keremxkuyucu" target="_blank" title="Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
   <a href="https://discord.com/users/483678328646270996" target="_blank" title="Discord"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/></a>
   <a href="https://www.youtube.com/@Kerem_KK" target="_blank" title="YouTube"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/kerem-kuyucu/" target="_blank" title="LinkedIn"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-2048.png&f=1&nofb=1&ipt=c630fbcbd8198c729f19541f39bf366b9d5e62c1bbfd325b0be0c1c4cc6e8e89&ipo=images" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/kerem-kuyucu/" target="_blank" title="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://github.com/keremlolgg" target="_blank" title="GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
