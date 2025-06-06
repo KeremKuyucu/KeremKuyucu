@@ -14,32 +14,6 @@
 - 🧠 I work on projects in geolocation games, health tech, and file systems  
 - 📧 Reach me at: [iletisim@keremkk.com.tr](mailto:iletisim@keremkk.com.tr)
 
----
-
-### 🧩 Featured Projects
-
-#### 🗺️ GeoGame Series  
-A cross-platform game where you guess real-world locations on a map.
-- 📱 [GeoGame](https://github.com/KeremKuyucu/GeoGame) – Mobile/Desktop client (Flutter)  
-- 🌍 [geogame-website](https://github.com/KeremKuyucu/geogame-website) – Promo & gameplay site  
-- 🧠 [geogame-api](https://github.com/KeremKuyucu/geogame-api) – REST API backend  
-- 🔐 [geogame-auth-web](https://github.com/KeremKuyucu/geogame-auth-web) – Authentication UI  
-- ☁️ [geogame-cdn](https://github.com/KeremKuyucu/geogame-cdn) – CDN for map assets  
-- 🖥️ [geogameCPP](https://github.com/KeremKuyucu/geogameCPP) – Initial version in C++
-
-#### 🏥 PikaMed Health System  
-A modular healthcare tracking platform.
-- 📱 [PikaMed](https://github.com/KeremKuyucu/PikaMed) – Mobile app  
-- 🧭 [PikaMed-website](https://github.com/KeremKuyucu/PikaMed-website) – Info site & user dashboard  
-- 🛠️ [pikamed-panel](https://github.com/KeremKuyucu/pikamed-panel) – Admin panel  
-- 🌐 [pikamed-apiserver](https://github.com/KeremKuyucu/pikamed-apiserver) – Backend API
-
-#### ☁️ DiscordStorage  
-Unlimited file upload & retrieval using Discord as a backend.
-- 📱 [DiscordStorage](https://github.com/KeremKuyucu/DiscordStorage) – Flutter client  
-- 🖥️ [DiscordStorageCPP](https://github.com/KeremKuyucu/DiscordStorageCPP) – Initial version in C++
-
----
 
 ### 🧰 Technologies I Use  
 <p align="left">
