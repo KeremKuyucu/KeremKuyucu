@@ -8,6 +8,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://buymeacoffee.com/keremkuyucu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</p>
+
+---
+
 ### 🚀 About Me  
 - 🎓 I'm a student deeply passionate about software development  
 - 📱 I build Mobile Apps, 🖥️ Web Platforms
@@ -54,9 +62,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://buymeacoffee.com/keremkuyucu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-</p>
