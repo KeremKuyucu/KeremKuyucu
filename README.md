@@ -18,7 +18,7 @@
 ### 🧰 Technologies I Use  
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
@@ -51,4 +51,12 @@
 ### 🧑‍💻 Visitor Counter  
 <p align="center">
   <img src="https://count.getloli.com/get/@keremkuyucu?theme=gelbooru" alt="Visitor Counter"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://buymeacoffee.com/keremkuyucu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
 </p>
