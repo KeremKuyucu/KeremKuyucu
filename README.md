@@ -1,8 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/84400545?s=400&u=656c479ce00b79c801862dd5ebb318cb1aacaed6&v=4" width="150" height="150" alt="Kerem Kuyucu Profile"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Kerem Kuyucu</h1>
 <h3 align="center">Fullstack & Cross-Platform Developer</h3>
 
