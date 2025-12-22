@@ -29,7 +29,7 @@
 - 🎓 I'm a student deeply passionate about software development  
 - 📱 I build Mobile Apps, 🖥️ Web Platforms
 - 🧠 I work on projects in geolocation games, health tech, and file systems  
-- 📧 Reach me at: [iletisim@keremkk.com.tr](mailto:iletisim@keremkk.com.tr)
+- 📧 Reach me at: [contact@keremkk.com.tr](mailto:contact@keremkk.com.tr)
 
 
 ### 🧰 Technologies I Use  
