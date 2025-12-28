@@ -26,10 +26,9 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 I'm a student deeply passionate about software development  
-- 📱 I build Mobile Apps, 🖥️ Web Platforms
-- 🧠 I work on projects in geolocation games, health tech, and file systems  
-- 📧 Reach me at: [contact@keremkk.com.tr](mailto:contact@keremkk.com.tr)
+- I'm a student deeply passionate about software development  
+- I build Mobile Apps
+- Reach me at: [contact@keremkk.com.tr](mailto:contact@keremkk.com.tr)
 
 ---
 
